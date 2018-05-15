@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ A\ Button\ is\ a\ clickable\ object\ used\ to\ perform\ a\ task\ only\ after\ being\ pressed.\r\n\ \r\n\ @author\ Brenden\ Roland\r\n\ @version\ 0.0.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ check\ to\ see\ if\ the\ Button\ has\ been\ pressed,\ if\ so,\ perform\ the\ Button's\ action.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

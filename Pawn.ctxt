@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pawn
+comment0.text=\r\n\ A\ Pawn\ is\ a\ ChessPiece\ that\ can\ capture\ diagonally\ and\ move\ forward\ by\ one\ square\ for\ each\ move\ except\ its\ first\ move.\r\n\ A\ Pawn\ can\ also\ turn\ into\ any\ other\ subclass\ of\ a\ ChessPiece\ when\ it\ has\ reached\ the\ far\ edge\ of\ the\ board.\r\n\ \r\n\ @author\ Brenden\ Roland\r\n\ @version\ 0.0.1\r\n
+comment1.params=
+comment1.target=Pawn()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ move\ the\ Pawn\ after\ it\ has\ been\ told\ to\ move\ by\ the\ user.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

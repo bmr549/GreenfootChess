@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Worlds\ of\ MyWorld\ set\ up\ a\ chess\ board\ to\ be\ used\ with\ ChessPieces.\r\n\ \r\n\ @author\ Brenden\ Roland\r\n\ @version\ 0.0.1\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n
+comment2.params=
+comment2.target=void\ buildStandardPositions()
+comment2.text=\r\n\ BuildStandardGame\ -\ \r\n
+comment3.params=
+comment3.target=void\ buildChess960()
+numComments=4
